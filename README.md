@@ -11,5 +11,7 @@ Paragraph text here
 puts "this is code"
 if this then that
 ````
+## Office Hours
+You can attend our free office hours (Ask Me Anything) wit a [quick registration at this Page](http://www.interactive-clouds.com/about.html#contact).
 
 
