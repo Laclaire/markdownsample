@@ -15,7 +15,7 @@ if this then that
 You can attend our free office hours (Ask Me Anything) wit a [quick registration at this Page](http://www.interactive-clouds.com/about.html#contact).
 
 
-# Getting started with DreamFace Cloud Platform for Bluemix
+# Getting started with DreamFace for Bluemix
 {: #gettingstarted}
 *Last updated: 21 April 2016* {: .last-updated}
 
